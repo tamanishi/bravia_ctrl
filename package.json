@@ -1,0 +1,15 @@
+{
+  "name": "bravia_test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masayuki Sunahara <tamanishi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bravia": "^1.2.0",
+    "express": "^4.16.2"
+  }
+}
