@@ -3,9 +3,15 @@
 家のbravia(KDL-40W600B)にIP Controlのコマンドを送るhttpサーバ
 
 ## usage
+
 GET /信号名 1.1
 
+## todos
+
+- [ ] IFTTTでHomeと繋げる
+
 ## commands
+
 - PowerOff
 - Input
 - GGuide
